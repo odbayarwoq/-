@@ -35,9 +35,9 @@ pip install torch
 pip install torchvision
 ```
 
-### Гаралтын жишээ
+# Гаралтын жишээ
 
-![туршилт](turshiltiin_zurag.png)
+![туршилт](./turshiltiin_zurag.png)
 
 ## Reference
 
