@@ -34,3 +34,9 @@ pip install efficientnet_pytorch
 pip install torch
 pip install torchvision
 ```
+
+## Reference
+
+- https://github.com/ShiqiYu/libfacedetection
+- https://github.com/ShiqiYu/libfacedetection.train
+- https://github.com/opencv/opencv_zoo/blob/main/models/face_detection_yunet/README.md
