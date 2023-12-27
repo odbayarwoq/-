@@ -35,6 +35,10 @@ pip install torch
 pip install torchvision
 ```
 
+### Гаралтын жишээ
+
+![туршилт](turshiltiin_zurag.png)
+
 ## Reference
 
 - https://github.com/ShiqiYu/libfacedetection
